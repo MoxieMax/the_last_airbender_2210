@@ -25,4 +25,8 @@ RSpec.describe CharacterFacade do
     expect(chan.affiliation).to eq("Fire Nation Navy")
     expect(chan.photo).to eq(nil)
   end
+  
+  it 'can return the number of people in a given nation' do
+    
+  end
 end

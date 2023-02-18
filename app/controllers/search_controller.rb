@@ -1,6 +1,6 @@
 class SearchController < ApplicationController
   def index
-    # @nation
+    # @nation = 
     # @total
     # @member
   end
